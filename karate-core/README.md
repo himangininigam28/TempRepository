@@ -1,4 +1,4 @@
-# Karate UI
+# Karate
 ## UI Test Automation Made `Simple.`
 
 ### Hello World
